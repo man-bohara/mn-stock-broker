@@ -18,7 +18,3 @@
 
 - [Micronaut Serialization Jackson Core documentation](https://micronaut-projects.github.io/micronaut-serialization/latest/guide/)
 
-
-# mn-stock-broker
-# mn-stock-broker
-# mn-stock-broker
