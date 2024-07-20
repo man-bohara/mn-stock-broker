@@ -1,0 +1,4 @@
+
+
+rootProject.name="mn-stock-broker"
+

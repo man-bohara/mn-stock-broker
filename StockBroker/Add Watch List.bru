@@ -1,0 +1,27 @@
+meta {
+  name: Add Watch List
+  type: http
+  seq: 5
+}
+
+put {
+  url: http://localhost:8080/account/watchlist
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "symbols": [
+      {
+        "value": "AAPL"
+      },
+      {
+        "value": "MSFT"
+      },
+      {
+        "value": "GOOGL"
+      }
+    ]
+  }
+}
